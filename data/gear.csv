@@ -1,0 +1,191 @@
+item_id,category,item_type,company,model,weight_oz,price_usd,quantity,total_price_usd,season_rating,material,color,waterproof,capacity_liters,essential_level,notes
+1,Shelter,Tent,Big Agnes,Copper Spur HV UL2,45,549.95,1,549.95,3,Nylon,Green,Yes,0,High,Big Agnes Copper Spur HV UL2 backpacking tent
+2,Shelter,Tent,MSR,Hubba Hubba 2,50,579.95,1,579.95,3,Nylon,Red,Yes,0,High,MSR Hubba Hubba 2 backpacking tent
+3,Shelter,Tent,NEMO,Hornet OSMO 2P,36,429.95,1,429.95,3,Nylon,Blue,Yes,0,High,NEMO Hornet OSMO 2P backpacking tent
+4,Shelter,Tent,REI Co-op,Flash Air 2,31,399.0,1,399.0,3,Nylon,Gray,Yes,0,High,REI Co-op Flash Air 2 backpacking tent
+5,Shelter,Tent,Zpacks,Duplex,18.5,699.0,1,699.0,3,Dyneema,Olive,Yes,0,High,Zpacks Duplex backpacking tent
+6,Shelter,Tarp,Hyperlite Mountain Gear,Flat Tarp 8x10,8.5,355.0,1,355.0,3,Dyneema,White,Yes,0,High,Hyperlite Mountain Gear Flat Tarp 8x10 backpacking tarp
+7,Shelter,Tarp,Sea to Summit,Escapist Tarp,10.5,229.95,1,229.95,3,Nylon,Lime,Yes,0,High,Sea to Summit Escapist Tarp backpacking tarp
+8,Shelter,Tent Stakes,MSR,Groundhog Stakes,0.5,3.95,2,7.9,3,Aluminum,Red,No,0,High,MSR Groundhog Stakes backpacking tent stakes
+9,Shelter,Groundsheet,Tyvek,HomeWrap Footprint,6,18.0,1,18.0,3,Tyvek,White,Water Resistant,0,High,Tyvek HomeWrap Footprint backpacking groundsheet
+10,Shelter,Bivy Sack,Outdoor Research,Helium Bivy,16,199.0,1,199.0,3,Nylon,Blue,Yes,0,High,Outdoor Research Helium Bivy backpacking bivy sack
+11,Sleeping,Sleeping Bag,Western Mountaineering,Alpinlite 20,31,689.0,1,689.0,3,Down,Blue,No,0,High,Western Mountaineering Alpinlite 20 backpacking sleeping bag
+12,Sleeping,Sleeping Bag,Marmot,Trestles Elite Eco 20,38,169.0,1,169.0,3,Synthetic,Orange,No,0,High,Marmot Trestles Elite Eco 20 backpacking sleeping bag
+13,Sleeping,Quilt,Enlightened Equipment,Revelation 20,22,345.0,1,345.0,3,Down,Green,No,0,High,Enlightened Equipment Revelation 20 backpacking quilt
+14,Sleeping,Sleeping Pad,Therm-a-Rest,NeoAir XLite NXT,13,209.95,1,209.95,3,Inflatable,Yellow,No,0,High,Therm-a-Rest NeoAir XLite NXT backpacking sleeping pad
+15,Sleeping,Sleeping Pad,NEMO,Tensor Insulated,15,199.95,1,199.95,3,Inflatable,Orange,No,0,High,NEMO Tensor Insulated backpacking sleeping pad
+16,Sleeping,Foam Pad,NEMO,Switchback,14.5,54.95,1,54.95,3,Foam,Orange,No,0,High,NEMO Switchback backpacking foam pad
+17,Sleeping,Pillow,NEMO,Fillo Elite,3,59.95,1,59.95,3,Polyester,Gray,No,0,High,NEMO Fillo Elite backpacking pillow
+18,Sleeping,Sleeping Liner,Sea to Summit,Thermolite Reactor,8.7,69.95,1,69.95,3,Polyester,Red,No,0,High,Sea to Summit Thermolite Reactor backpacking sleeping liner
+19,Sleeping,Stuff Sack,Sea to Summit,Ultra-Sil Compression Sack,2.3,36.95,1,36.95,3,Nylon,Blue,Water Resistant,8,High,Sea to Summit Ultra-Sil Compression Sack backpacking stuff sack
+20,Sleeping,Camp Blanket,Rumpl,Original Puffy Blanket,34,125.0,1,125.0,3,Recycled Polyester,Multi,Water Resistant,0,High,Rumpl Original Puffy Blanket backpacking camp blanket
+21,Backpack,Backpack,Osprey,Exos 58,48,260.0,1,260.0,3,Nylon,Blue,Water Resistant,58,High,Osprey Exos 58 backpacking backpack
+22,Backpack,Backpack,Gregory,Focal 58,45,249.95,1,249.95,3,Nylon,Gray,Water Resistant,58,High,Gregory Focal 58 backpacking backpack
+23,Backpack,Backpack,Hyperlite Mountain Gear,Southwest 55,32,379.0,1,379.0,3,Dyneema,White,Water Resistant,55,High,Hyperlite Mountain Gear Southwest 55 backpacking backpack
+24,Backpack,Backpack,Granite Gear,Crown3 60,40,239.95,1,239.95,3,Nylon,Black,Water Resistant,60,High,Granite Gear Crown3 60 backpacking backpack
+25,Backpack,Backpack,ULA Equipment,Circuit,37,299.99,1,299.99,3,Robic Nylon,Green,Water Resistant,68,High,ULA Equipment Circuit backpacking backpack
+26,Backpack,Pack Liner,Nylofume,Pack Liner,0.9,2.5,1,2.5,3,Plastic,Clear,Yes,0,High,Nylofume Pack Liner backpacking pack liner
+27,Backpack,Rain Cover,Osprey,Ultralight Raincover,3,40.0,1,40.0,3,Nylon,Black,Yes,0,High,Osprey Ultralight Raincover backpacking rain cover
+28,Backpack,Hip Belt Pocket,Gossamer Gear,Hipbelt Pocket,1.3,20.0,1,20.0,3,Nylon,Gray,Water Resistant,1,High,Gossamer Gear Hipbelt Pocket backpacking hip belt pocket
+29,Backpack,Shoulder Pouch,Hyperlite Mountain Gear,Shoulder Pocket,1.4,59.0,1,59.0,3,Dyneema,White,Water Resistant,1,High,Hyperlite Mountain Gear Shoulder Pocket backpacking shoulder pouch
+30,Backpack,Stuff Sack,REI Co-op,Lightweight Stuff Sack,1.5,14.95,1,14.95,3,Nylon,Orange,Water Resistant,5,High,REI Co-op Lightweight Stuff Sack backpacking stuff sack
+31,Cooking,Stove,MSR,PocketRocket Deluxe,3,84.95,1,84.95,4,Aluminum,Red,No,0,High,MSR PocketRocket Deluxe backpacking stove
+32,Cooking,Stove,Jetboil,Flash Cooking System,13.1,129.95,1,129.95,4,Aluminum,Black,No,1,High,Jetboil Flash Cooking System backpacking stove
+33,Cooking,Stove,Soto,WindMaster,2.3,69.95,1,69.95,4,Aluminum,Silver,No,0,High,Soto WindMaster backpacking stove
+34,Cooking,Cook Pot,TOAKS,Titanium 750ml Pot,3.6,44.95,1,44.95,4,Titanium,Silver,No,0.75,High,TOAKS Titanium 750ml Pot backpacking cook pot
+35,Cooking,Cook Pot,MSR,Titan Kettle,4.2,69.95,1,69.95,4,Titanium,Silver,No,0.85,High,MSR Titan Kettle backpacking cook pot
+36,Cooking,Fuel Canister,Jetboil,JetPower Fuel 100g,7,6.99,2,13.98,4,Metal,Silver,No,0,High,Jetboil JetPower Fuel 100g backpacking fuel canister
+37,Cooking,Spoon,Sea to Summit,Alpha Light Long Spoon,0.4,11.95,1,11.95,4,Aluminum,Gray,No,0,High,Sea to Summit Alpha Light Long Spoon backpacking spoon
+38,Cooking,Mug,GSI Outdoors,Infinity Backpacker Mug,3.5,12.95,1,12.95,4,Plastic,Blue,No,0.5,High,GSI Outdoors Infinity Backpacker Mug backpacking mug
+39,Cooking,Lighter,BIC,Mini Lighter,0.4,2.49,1,2.49,4,Plastic,Multi,No,0,High,BIC Mini Lighter backpacking lighter
+40,Cooking,Bear Hang Kit,LiteAF,Bear Bag Kit,3.5,59.99,1,59.99,4,Dyneema,Green,Water Resistant,12,High,LiteAF Bear Bag Kit backpacking bear hang kit
+41,Hydration,Water Filter,Sawyer,Squeeze Filter,3,41.99,1,41.99,4,Plastic,Blue,No,0,High,Sawyer Squeeze Filter backpacking water filter
+42,Hydration,Water Filter,Katadyn,BeFree 1L,2.3,49.95,1,49.95,4,Plastic,Blue,No,1,High,Katadyn BeFree 1L backpacking water filter
+43,Hydration,Water Purifier,MSR,Guardian Purifier,17.3,389.95,1,389.95,4,Plastic,Black,Water Resistant,0,High,MSR Guardian Purifier backpacking water purifier
+44,Hydration,Water Bottle,Smartwater,1L Bottle,1.2,2.5,1,2.5,4,Plastic,Clear,No,1,High,Smartwater 1L Bottle backpacking water bottle
+45,Hydration,Water Bottle,Nalgene,Wide Mouth 1L,6.3,16.99,1,16.99,4,Plastic,Blue,No,1,High,Nalgene Wide Mouth 1L backpacking water bottle
+46,Hydration,Reservoir,CamelBak,Crux 2L,7,39.99,1,39.99,4,Plastic,Blue,No,2,High,CamelBak Crux 2L backpacking reservoir
+47,Hydration,Reservoir,Platypus,Big Zip EVO 3L,6.5,49.95,1,49.95,4,Plastic,Clear,No,3,High,Platypus Big Zip EVO 3L backpacking reservoir
+48,Hydration,Water Bag,CNOC,Vecto 2L,2.6,24.99,1,24.99,4,Plastic,Orange,No,2,High,CNOC Vecto 2L backpacking water bag
+49,Hydration,Bottle Adapter,Sawyer,Coupling Adapter,0.2,3.99,1,3.99,4,Plastic,Blue,No,0,High,Sawyer Coupling Adapter backpacking bottle adapter
+50,Hydration,Electrolyte Tablets,Nuun,Sport Tablets,2,7.99,1,7.99,4,Food Packaging,Multi,No,0,High,Nuun Sport Tablets backpacking electrolyte tablets
+51,Clothing,Jacket,Patagonia,Nano Puff Hoody,13,329.0,1,329.0,3,Polyester,Black,Water Resistant,0,Medium,Patagonia Nano Puff Hoody backpacking jacket
+52,Clothing,Rain Jacket,Outdoor Research,Foray II,16,225.0,1,225.0,3,Gore-Tex,Green,Yes,0,Medium,Outdoor Research Foray II backpacking rain jacket
+53,Clothing,Base Layer,Smartwool,Classic Thermal Merino,9,115.0,1,115.0,3,Merino Wool,Gray,No,0,Medium,Smartwool Classic Thermal Merino backpacking base layer
+54,Clothing,Hiking Pants,Kuhl,Renegade Rock Pant,14,109.0,1,109.0,3,Nylon,Khaki,Water Resistant,0,Medium,Kuhl Renegade Rock Pant backpacking hiking pants
+55,Clothing,Shorts,Patagonia,Baggies Shorts,7,65.0,1,65.0,3,Nylon,Blue,Water Resistant,0,Medium,Patagonia Baggies Shorts backpacking shorts
+56,Clothing,Fleece,Melanzana,Micro Grid Hoodie,12,99.0,1,99.0,3,Fleece,Purple,No,0,Medium,Melanzana Micro Grid Hoodie backpacking fleece
+57,Clothing,Beanie,Smartwool,Merino Beanie,2,30.0,1,30.0,3,Merino Wool,Black,No,0,Medium,Smartwool Merino Beanie backpacking beanie
+58,Clothing,Gloves,Outdoor Research,Versaliner Sensor Gloves,2.3,59.0,1,59.0,3,Polyester,Black,Water Resistant,0,Medium,Outdoor Research Versaliner Sensor Gloves backpacking gloves
+59,Clothing,Sun Hoodie,REI Co-op,Sahara Shade Hoodie,7,49.95,1,49.95,3,Polyester,Gray,No,0,Medium,REI Co-op Sahara Shade Hoodie backpacking sun hoodie
+60,Clothing,Rain Pants,Marmot,PreCip Eco Pants,10,100.0,1,100.0,3,Nylon,Black,Yes,0,Medium,Marmot PreCip Eco Pants backpacking rain pants
+61,Footwear,Hiking Shoes,Salomon,X Ultra 4 GTX,30,169.95,1,169.95,3,Synthetic,Black,Yes,0,Medium,Salomon X Ultra 4 GTX backpacking hiking shoes
+62,Footwear,Trail Runners,Altra,Lone Peak 8,22,140.0,1,140.0,3,Synthetic,Blue,No,0,Medium,Altra Lone Peak 8 backpacking trail runners
+63,Footwear,Boots,Merrell,Moab 3 Mid Waterproof,32,150.0,1,150.0,3,Leather/Synthetic,Brown,Yes,0,Medium,Merrell Moab 3 Mid Waterproof backpacking boots
+64,Footwear,Socks,Darn Tough,Hiker Micro Crew,3,25.0,2,50.0,3,Merino Wool,Olive,No,0,Medium,Darn Tough Hiker Micro Crew backpacking socks
+65,Footwear,Socks,Injinji,Trail Midweight Crew,2.5,17.0,2,34.0,3,Synthetic,Gray,No,0,Medium,Injinji Trail Midweight Crew backpacking socks
+66,Footwear,Gaiters,Dirty Girl Gaiters,Trail Gaiters,1.5,24.0,1,24.0,3,Stretch Fabric,Multi,Water Resistant,0,Medium,Dirty Girl Gaiters Trail Gaiters backpacking gaiters
+67,Footwear,Camp Shoes,Crocs,Classic Clog,12,49.99,1,49.99,3,Foam,Black,Waterproof,0,Medium,Crocs Classic Clog backpacking camp shoes
+68,Footwear,Sandals,Bedrock Sandals,Cairn Adventure,16,115.0,1,115.0,3,Synthetic,Black,Waterproof,0,Medium,Bedrock Sandals Cairn Adventure backpacking sandals
+69,Footwear,Insoles,Superfeet,Trailblazer Comfort,3,54.99,1,54.99,3,Foam,Green,No,0,Medium,Superfeet Trailblazer Comfort backpacking insoles
+70,Footwear,Shoe Repair,Gear Aid,Aquaseal SR,1,8.95,1,8.95,3,Adhesive,Clear,Waterproof,0,Medium,Gear Aid Aquaseal SR backpacking shoe repair
+71,Electronics,Headlamp,Black Diamond,Spot 400-R,3,64.95,1,64.95,4,Plastic,Black,Water Resistant,0,Medium,Black Diamond Spot 400-R backpacking headlamp
+72,Electronics,Power Bank,Anker,PowerCore 10000,6.4,29.99,1,29.99,4,Plastic,Black,No,0,Medium,Anker PowerCore 10000 backpacking power bank
+73,Electronics,GPS Device,Garmin,inReach Mini 2,3.5,399.99,1,399.99,4,Plastic,Orange,Water Resistant,0,Medium,Garmin inReach Mini 2 backpacking gps device
+74,Electronics,Solar Panel,Goal Zero,Nomad 10,18.7,99.95,1,99.95,4,Plastic,Black,Water Resistant,0,Medium,Goal Zero Nomad 10 backpacking solar panel
+75,Electronics,Charging Cable,Anker,USB-C Cable 3ft,1,8.99,1,8.99,4,Plastic,Black,No,0,Medium,Anker USB-C Cable 3ft backpacking charging cable
+76,Electronics,Phone Case,LifeProof,FRĒ Case,2,89.99,1,89.99,4,Plastic,Black,Yes,0,Medium,LifeProof FRĒ Case backpacking phone case
+77,Electronics,Camera,GoPro,HERO12 Black,5.4,399.99,1,399.99,4,Plastic,Black,Waterproof,0,Medium,GoPro HERO12 Black backpacking camera
+78,Electronics,Watch,Garmin,Instinct 2 Solar,1.9,399.99,1,399.99,4,Polymer,Graphite,Water Resistant,0,Medium,Garmin Instinct 2 Solar backpacking watch
+79,Electronics,Battery,Nitecore,NB10000 Gen 2,5.3,64.95,1,64.95,4,Carbon Fiber,Black,No,0,Medium,Nitecore NB10000 Gen 2 backpacking battery
+80,Electronics,Lantern,Goal Zero,Lighthouse Micro Flash,2.4,24.95,1,24.95,4,Plastic,Green,Water Resistant,0,Medium,Goal Zero Lighthouse Micro Flash backpacking lantern
+81,Safety,First Aid Kit,Adventure Medical Kits,Ultralight Watertight .7,8,34.99,1,34.99,4,Nylon,Red,Water Resistant,0,High,Adventure Medical Kits Ultralight Watertight .7 backpacking first aid kit
+82,Safety,Bear Spray,SABRE,Frontiersman Bear Spray,11,49.99,1,49.99,4,Metal,Red,No,0,High,SABRE Frontiersman Bear Spray backpacking bear spray
+83,Safety,Whistle,Fox 40,Classic Whistle,0.3,6.99,1,6.99,4,Plastic,Orange,Waterproof,0,High,Fox 40 Classic Whistle backpacking whistle
+84,Safety,Emergency Blanket,SOL,Emergency Blanket,2.5,5.99,1,5.99,4,Mylar,Silver,Waterproof,0,High,SOL Emergency Blanket backpacking emergency blanket
+85,Safety,Fire Starter,UCO,Stormproof Matches,1.7,9.95,1,9.95,4,Wood,Orange,Water Resistant,0,High,UCO Stormproof Matches backpacking fire starter
+86,Safety,Knife,Opinel,No. 8 Folding Knife,1.6,19.0,1,19.0,4,Steel/Wood,Brown,No,0,High,Opinel No. 8 Folding Knife backpacking knife
+87,Safety,Repair Tape,Gear Aid,Tenacious Tape,0.6,5.95,1,5.95,4,Tape,Clear,Waterproof,0,High,Gear Aid Tenacious Tape backpacking repair tape
+88,Safety,Blister Kit,Adventure Medical Kits,Blister Medic,1.6,10.99,1,10.99,4,Medical Supplies,Red,No,0,High,Adventure Medical Kits Blister Medic backpacking blister kit
+89,Safety,Sunscreen,Sun Bum,SPF 50 Lotion,3,11.99,1,11.99,4,Lotion,Yellow,No,0,High,Sun Bum SPF 50 Lotion backpacking sunscreen
+90,Safety,Bug Spray,Sawyer,Picaridin Insect Repellent,4,9.99,1,9.99,4,Liquid,Blue,No,0,High,Sawyer Picaridin Insect Repellent backpacking bug spray
+91,Navigation,Map,National Geographic,Trails Illustrated Map,3,14.95,1,14.95,4,Paper,Multi,Water Resistant,0,Medium,National Geographic Trails Illustrated Map backpacking map
+92,Navigation,Compass,Suunto,MC-2 Compass,2.6,54.95,1,54.95,4,Plastic,White,No,0,Medium,Suunto MC-2 Compass backpacking compass
+93,Navigation,GPS Device,Garmin,eTrex SE,5.5,149.99,1,149.99,4,Plastic,Black,Water Resistant,0,Medium,Garmin eTrex SE backpacking gps device
+94,Navigation,Guidebook,Falcon Guides,Hiking Guidebook,14,24.95,1,24.95,4,Paper,Multi,No,0,Medium,Falcon Guides Hiking Guidebook backpacking guidebook
+95,Navigation,Notebook,Rite in the Rain,Pocket Notebook,2,4.95,1,4.95,4,Paper,Yellow,Water Resistant,0,Medium,Rite in the Rain Pocket Notebook backpacking notebook
+96,Navigation,Pen,Fisher,Space Pen,0.8,12.99,1,12.99,4,Metal,Black,No,0,Medium,Fisher Space Pen backpacking pen
+97,Navigation,Trail App Subscription,AllTrails,AllTrails+,0,35.99,1,35.99,4,Digital,N/A,N/A,0,Medium,AllTrails AllTrails+ backpacking trail app subscription
+98,Navigation,Satellite Plan,Garmin,Safety Plan,0,14.99,1,14.99,4,Digital,N/A,N/A,0,Medium,Garmin Safety Plan backpacking satellite plan
+99,Navigation,Altimeter,Casio,Pro Trek Watch,2.3,199.0,1,199.0,4,Resin,Black,Water Resistant,0,Medium,Casio Pro Trek Watch backpacking altimeter
+100,Navigation,Route Card,Custom,Printed Route Card,0.5,1.0,1,1.0,4,Paper,White,Water Resistant,0,Medium,Custom Printed Route Card backpacking route card
+101,Food,Freeze Dried Meal,Mountain House,Beef Stroganoff,4.8,10.99,3,32.97,4,Food Packaging,Multi,No,0,Medium,Mountain House Beef Stroganoff backpacking freeze dried meal
+102,Food,Freeze Dried Meal,Backpacker's Pantry,Pad Thai,4.5,11.95,3,35.85,4,Food Packaging,Multi,No,0,Medium,Backpacker's Pantry Pad Thai backpacking freeze dried meal
+103,Food,Freeze Dried Meal,Peak Refuel,Chicken Alfredo,5.7,13.99,3,41.97,4,Food Packaging,Multi,No,0,Medium,Peak Refuel Chicken Alfredo backpacking freeze dried meal
+104,Food,Energy Bar,Clif Bar,Chocolate Chip,2.4,1.79,5,8.95,4,Food Packaging,Brown,No,0,Medium,Clif Bar Chocolate Chip backpacking energy bar
+105,Food,Energy Bar,RXBAR,Chocolate Sea Salt,1.8,2.49,5,12.45,4,Food Packaging,Blue,No,0,Medium,RXBAR Chocolate Sea Salt backpacking energy bar
+106,Food,Trail Mix,Planters,Nut & Chocolate Trail Mix,6,5.99,5,29.95,4,Food Packaging,Multi,No,0,Medium,Planters Nut & Chocolate Trail Mix backpacking trail mix
+107,Food,Peanut Butter,Justin's,Classic Squeeze Pack,1.15,1.49,5,7.45,4,Food Packaging,Brown,No,0,Medium,Justin's Classic Squeeze Pack backpacking peanut butter
+108,Food,Instant Coffee,Starbucks,VIA Instant Coffee,0.1,0.99,5,4.95,4,Food Packaging,Brown,No,0,Medium,Starbucks VIA Instant Coffee backpacking instant coffee
+109,Food,Oatmeal,Quaker,Instant Oatmeal Packet,1.5,0.75,5,3.75,4,Food Packaging,Tan,No,0,Medium,Quaker Instant Oatmeal Packet backpacking oatmeal
+110,Food,Jerky,Jack Link's,Original Beef Jerky,3.25,6.99,5,34.95,4,Food Packaging,Red,No,0,Medium,Jack Link's Original Beef Jerky backpacking jerky
+111,Storage,Dry Bag,Sea to Summit,Lightweight Dry Bag 8L,2.5,24.95,1,24.95,4,Nylon,Orange,Yes,8,Medium,Sea to Summit Lightweight Dry Bag 8L backpacking dry bag
+112,Storage,Bear Canister,Garcia,Backpackers Cache,41,89.99,1,89.99,4,Plastic,Black,Bear Resistant,10,Medium,Garcia Backpackers Cache backpacking bear canister
+113,Storage,Food Bag,Ursack,Major Bear Bag,7.6,109.95,1,109.95,4,Kevlar,White,Bear Resistant,10,Medium,Ursack Major Bear Bag backpacking food bag
+114,Storage,Compression Sack,Outdoor Research,PackOut Compression Sack,3,32.0,1,32.0,4,Nylon,Blue,Water Resistant,10,Medium,Outdoor Research PackOut Compression Sack backpacking compression sack
+115,Storage,Zip Bags,Ziploc,Freezer Bags Gallon,0.2,0.3,2,0.6,4,Plastic,Clear,Water Resistant,1,Medium,Ziploc Freezer Bags Gallon backpacking zip bags
+116,Storage,Duffle Bag,Patagonia,Black Hole Duffel 40L,37,159.0,1,159.0,4,Recycled Polyester,Black,Water Resistant,40,Medium,Patagonia Black Hole Duffel 40L backpacking duffle bag
+117,Storage,Gear Cube,Eagle Creek,Pack-It Cube,2.5,20.0,1,20.0,4,Polyester,Blue,No,5,Medium,Eagle Creek Pack-It Cube backpacking gear cube
+118,Storage,Wallet,Flowfold,Minimalist Wallet,0.7,14.95,1,14.95,4,Sailcloth,Black,Water Resistant,0,Medium,Flowfold Minimalist Wallet backpacking wallet
+119,Storage,Stuff Sack,Granite Gear,Air Zippditty Sack,1,16.95,1,16.95,4,Nylon,Multi,Water Resistant,2,Medium,Granite Gear Air Zippditty Sack backpacking stuff sack
+120,Storage,Trash Bag,Hefty,Contractor Bag,2.5,1.5,1,1.5,4,Plastic,Black,Waterproof,0,Medium,Hefty Contractor Bag backpacking trash bag
+121,Hygiene,Trowel,TheTentLab,Deuce of Spades #2,0.6,20.0,1,20.0,4,Aluminum,Blue,No,0,Medium,TheTentLab Deuce of Spades #2 backpacking trowel
+122,Hygiene,Toothbrush,Oral-B,Travel Toothbrush,1,3.99,1,3.99,4,Plastic,Blue,No,0,Medium,Oral-B Travel Toothbrush backpacking toothbrush
+123,Hygiene,Toothpaste,Colgate,Travel Toothpaste,1,1.99,1,1.99,4,Paste,White,No,0,Medium,Colgate Travel Toothpaste backpacking toothpaste
+124,Hygiene,Hand Sanitizer,Purell,Travel Size,2,2.99,1,2.99,4,Gel,Clear,No,0,Medium,Purell Travel Size backpacking hand sanitizer
+125,Hygiene,Biodegradable Soap,Dr. Bronner's,Castile Soap 2oz,2.4,4.99,1,4.99,4,Liquid,Blue,No,0,Medium,Dr. Bronner's Castile Soap 2oz backpacking biodegradable soap
+126,Hygiene,Toilet Paper,Coghlan's,Camp Toilet Tissue,4,2.99,1,2.99,4,Paper,White,No,0,Medium,Coghlan's Camp Toilet Tissue backpacking toilet paper
+127,Hygiene,Wet Wipes,Sea to Summit,Wilderness Wipes,3,4.95,1,4.95,4,Fabric,White,No,0,Medium,Sea to Summit Wilderness Wipes backpacking wet wipes
+128,Hygiene,Microfiber Towel,PackTowl,Personal Towel,3.4,19.95,1,19.95,4,Microfiber,Blue,No,0,Medium,PackTowl Personal Towel backpacking microfiber towel
+129,Hygiene,Lip Balm,Burt's Bees,SPF Lip Balm,0.3,4.99,1,4.99,4,Wax,Yellow,No,0,Medium,Burt's Bees SPF Lip Balm backpacking lip balm
+130,Hygiene,Deodorant,Native,Mini Deodorant,1.5,3.99,1,3.99,4,Solid,White,No,0,Medium,Native Mini Deodorant backpacking deodorant
+131,Accessories,Trekking Poles,Black Diamond,Distance Carbon Z,10,189.95,1,189.95,4,Carbon Fiber,Black,No,0,Medium,Black Diamond Distance Carbon Z backpacking trekking poles
+132,Accessories,Camp Chair,Helinox,Chair Zero,18,149.95,1,149.95,4,Aluminum,Black,No,0,Medium,Helinox Chair Zero backpacking camp chair
+133,Accessories,Sunglasses,Goodr,OG Sunglasses,1,25.0,1,25.0,4,Plastic,Black,No,0,Medium,Goodr OG Sunglasses backpacking sunglasses
+134,Accessories,Hat,Sunday Afternoons,Ultra Adventure Hat,2.6,46.0,1,46.0,4,Nylon,Tan,Water Resistant,0,Medium,Sunday Afternoons Ultra Adventure Hat backpacking hat
+135,Accessories,Bandana,REI Co-op,Cotton Bandana,1.2,5.95,1,5.95,4,Cotton,Red,No,0,Medium,REI Co-op Cotton Bandana backpacking bandana
+136,Accessories,Carabiner,Black Diamond,MiniWire Carabiner,0.8,6.95,1,6.95,4,Aluminum,Blue,No,0,Medium,Black Diamond MiniWire Carabiner backpacking carabiner
+137,Accessories,Cord,Lawson Equipment,Glowire Cord 50ft,2.5,18.0,1,18.0,4,Nylon,Orange,Water Resistant,0,Medium,Lawson Equipment Glowire Cord 50ft backpacking cord
+138,Accessories,Sit Pad,Therm-a-Rest,Z Seat,2,32.95,1,32.95,4,Foam,Blue,Water Resistant,0,Medium,Therm-a-Rest Z Seat backpacking sit pad
+139,Accessories,Umbrella,Six Moon Designs,Silver Shadow Mini,6.8,39.0,1,39.0,4,Polyester,Silver,Yes,0,Medium,Six Moon Designs Silver Shadow Mini backpacking umbrella
+140,Accessories,Bug Net,Sea to Summit,Head Net,1.3,12.95,1,12.95,4,Mesh,Black,No,0,Medium,Sea to Summit Head Net backpacking bug net
+141,Winter Gear,Microspikes,Kahtoola,MICROspikes,11,74.95,1,74.95,1,Steel/Rubber,Red,No,0,Medium,Kahtoola MICROspikes backpacking microspikes
+142,Winter Gear,Snowshoes,MSR,Lightning Ascent,64,389.95,1,389.95,1,Aluminum,Black,Water Resistant,0,Medium,MSR Lightning Ascent backpacking snowshoes
+143,Winter Gear,Ice Axe,Petzl,Glacier Literide,11.3,109.95,1,109.95,1,Steel/Aluminum,Silver,No,0,Medium,Petzl Glacier Literide backpacking ice axe
+144,Winter Gear,Goggles,Smith,Squad Snow Goggles,5,120.0,1,120.0,1,Plastic,Black,No,0,Medium,Smith Squad Snow Goggles backpacking goggles
+145,Winter Gear,Winter Gloves,Black Diamond,Guide Gloves,11,179.95,1,179.95,1,Leather,Black,Water Resistant,0,Medium,Black Diamond Guide Gloves backpacking winter gloves
+146,Winter Gear,Down Booties,Feathered Friends,Down Booties,9,119.0,1,119.0,1,Down/Nylon,Blue,No,0,Medium,Feathered Friends Down Booties backpacking down booties
+147,Winter Gear,Balaclava,Outdoor Research,Ninjaclava,2.3,34.0,1,34.0,1,Fleece,Black,No,0,Medium,Outdoor Research Ninjaclava backpacking balaclava
+148,Winter Gear,Thermal Bottle,Hydro Flask,24 oz Standard Mouth,13,39.95,1,39.95,1,Stainless Steel,Blue,Waterproof,0.7,Medium,Hydro Flask 24 oz Standard Mouth backpacking thermal bottle
+149,Winter Gear,Snow Stakes,MSR,Blizzard Tent Stakes,0.75,7.95,1,7.95,1,Aluminum,Red,No,0,Medium,MSR Blizzard Tent Stakes backpacking snow stakes
+150,Winter Gear,Hand Warmers,HotHands,Hand Warmer Pair,1.6,1.49,2,2.98,1,Packet,Orange,No,0,Medium,HotHands Hand Warmer Pair backpacking hand warmers
+151,Fishing,Fishing Rod,Tenkara USA,Hane Rod,3.5,170.0,1,170.0,4,Carbon Fiber,Black,No,0,Medium,Tenkara USA Hane Rod backpacking fishing rod
+152,Fishing,Fishing Line,Rio,Powerflex Tippet,0.5,5.99,1,5.99,4,Nylon,Clear,Waterproof,0,Medium,Rio Powerflex Tippet backpacking fishing line
+153,Fishing,Fly Box,Orvis,Ultralight Fly Box,2,19.95,1,19.95,4,Plastic,Gray,Water Resistant,0,Medium,Orvis Ultralight Fly Box backpacking fly box
+154,Fishing,Dry Flies,Umpqua,Parachute Adams 12-Pack,0.2,24.99,1,24.99,4,Feathers,Multi,No,0,Medium,Umpqua Parachute Adams 12-Pack backpacking dry flies
+155,Fishing,Nippers,Loon Outdoors,Rogue Nippers,0.8,8.95,1,8.95,4,Steel,Black,No,0,Medium,Loon Outdoors Rogue Nippers backpacking nippers
+156,Fishing,Fishing License,State Parks,Annual Fishing License,0,45.0,1,45.0,4,Digital,N/A,N/A,0,Medium,State Parks Annual Fishing License backpacking fishing license
+157,Fishing,Net,Fishpond,Nomad Hand Net,8,159.95,1,159.95,4,Carbon Fiber,Brown,Waterproof,0,Medium,Fishpond Nomad Hand Net backpacking net
+158,Fishing,Forceps,Dr. Slick,Clamp Forceps,1.4,15.95,1,15.95,4,Steel,Silver,No,0,Medium,Dr. Slick Clamp Forceps backpacking forceps
+159,Fishing,Floatant,Gink,Fly Floatant,0.5,6.99,1,6.99,4,Gel,Yellow,No,0,Medium,Gink Fly Floatant backpacking floatant
+160,Fishing,Line Holder,Tenkara USA,Line Holder,0.3,12.0,1,12.0,4,Foam,Blue,No,0,Medium,Tenkara USA Line Holder backpacking line holder
+161,Pet Gear,Dog Pack,Ruffwear,Approach Pack,16,109.95,1,109.95,4,Nylon,Orange,Water Resistant,10,Medium,Ruffwear Approach Pack backpacking dog pack
+162,Pet Gear,Dog Bowl,Ruffwear,Quencher Bowl,1.5,19.95,1,19.95,4,Nylon,Blue,Water Resistant,1,Medium,Ruffwear Quencher Bowl backpacking dog bowl
+163,Pet Gear,Dog Leash,Ruffwear,Roamer Leash,6.5,44.95,1,44.95,4,Nylon,Green,No,0,Medium,Ruffwear Roamer Leash backpacking dog leash
+164,Pet Gear,Dog Jacket,Ruffwear,Stumptown Jacket,8,89.95,1,89.95,4,Polyester,Red,Water Resistant,0,Medium,Ruffwear Stumptown Jacket backpacking dog jacket
+165,Pet Gear,Dog Boots,Ruffwear,Grip Trex Boots,8,39.95,1,39.95,4,Rubber,Black,Water Resistant,0,Medium,Ruffwear Grip Trex Boots backpacking dog boots
+166,Pet Gear,Dog Sleeping Pad,Klymit,Moon Dog Bed,30,49.95,1,49.95,4,Inflatable,Green,No,0,Medium,Klymit Moon Dog Bed backpacking dog sleeping pad
+167,Pet Gear,Dog First Aid Kit,Adventure Medical Kits,Trail Dog Kit,6,29.99,1,29.99,4,Nylon,Red,Water Resistant,0,Medium,Adventure Medical Kits Trail Dog Kit backpacking dog first aid kit
+168,Pet Gear,Dog Food Bag,Ruffwear,Kibble Kaddie,10,49.95,1,49.95,4,Nylon,Gray,Water Resistant,10,Medium,Ruffwear Kibble Kaddie backpacking dog food bag
+169,Pet Gear,Dog Collar Light,Nite Ize,SpotLit LED Collar Light,0.6,9.99,1,9.99,4,Plastic,Blue,Water Resistant,0,Medium,Nite Ize SpotLit LED Collar Light backpacking dog collar light
+170,Pet Gear,Dog Towel,PackTowl,Dog Towel,4,14.95,1,14.95,4,Microfiber,Orange,No,0,Medium,PackTowl Dog Towel backpacking dog towel
+171,Camera Gear,Tripod,Joby,GorillaPod 1K,7,34.95,1,34.95,4,Plastic/Metal,Black,No,0,Medium,Joby GorillaPod 1K backpacking tripod
+172,Camera Gear,Camera Clip,Peak Design,Capture Clip,3,74.95,1,74.95,4,Aluminum,Black,Water Resistant,0,Medium,Peak Design Capture Clip backpacking camera clip
+173,Camera Gear,Lens Cloth,Zeiss,Lens Wipes,0.1,0.2,1,0.2,4,Fabric,White,No,0,Medium,Zeiss Lens Wipes backpacking lens cloth
+174,Camera Gear,Memory Card,SanDisk,Extreme 128GB,0.1,18.99,1,18.99,4,Plastic,Red,Water Resistant,0,Medium,SanDisk Extreme 128GB backpacking memory card
+175,Camera Gear,Camera Bag,Peak Design,Everyday Sling 3L,19,89.95,1,89.95,4,Nylon,Black,Water Resistant,3,Medium,Peak Design Everyday Sling 3L backpacking camera bag
+176,Camera Gear,Action Mount,GoPro,Shorty Mini Extension Pole,2.2,39.99,1,39.99,4,Plastic,Black,Water Resistant,0,Medium,GoPro Shorty Mini Extension Pole backpacking action mount
+177,Camera Gear,Drone,DJI,Mini 4 Pro,8.8,759.0,1,759.0,4,Plastic,Gray,No,0,Medium,DJI Mini 4 Pro backpacking drone
+178,Camera Gear,Drone Battery,DJI,Mini 4 Pro Battery,2.7,65.0,1,65.0,4,Lithium,Gray,No,0,Medium,DJI Mini 4 Pro Battery backpacking drone battery
+179,Camera Gear,Camera Rain Cover,Think Tank,Emergency Rain Cover,3,39.75,1,39.75,4,Nylon,Black,Yes,0,Medium,Think Tank Emergency Rain Cover backpacking camera rain cover
+180,Camera Gear,Portable SSD,Samsung,T7 Shield 1TB,3.5,99.99,1,99.99,4,Rubber/Metal,Black,Water Resistant,0,Medium,Samsung T7 Shield 1TB backpacking portable ssd
+181,Luxury,Camp Table,Helinox,Table One Hard Top,30,169.95,1,169.95,4,Aluminum,Black,No,0,Medium,Helinox Table One Hard Top backpacking camp table
+182,Luxury,Coffee Press,AeroPress,Go Travel Coffee Press,11.5,39.95,1,39.95,4,Plastic,Gray,No,0,Medium,AeroPress Go Travel Coffee Press backpacking coffee press
+183,Luxury,Book,Penguin,Trail Paperback,8,12.99,1,12.99,4,Paper,Multi,No,0,Medium,Penguin Trail Paperback backpacking book
+184,Luxury,Hammock,ENO,Sub6 Hammock,5.8,69.95,1,69.95,4,Nylon,Blue,No,0,Medium,ENO Sub6 Hammock backpacking hammock
+185,Luxury,Hammock Straps,ENO,Helios Suspension System,4.1,34.95,1,34.95,4,Polyester,Gray,No,0,Medium,ENO Helios Suspension System backpacking hammock straps
+186,Luxury,Camp Shower,Sea to Summit,Pocket Shower,4.3,36.95,1,36.95,4,Nylon,Black,Yes,10,Medium,Sea to Summit Pocket Shower backpacking camp shower
+187,Luxury,Puffy Pants,Montbell,Thermawrap Pants,9,169.0,1,169.0,4,Synthetic,Black,No,0,Medium,Montbell Thermawrap Pants backpacking puffy pants
+188,Luxury,Wine Flask,HydraPak,Stow Bottle 500ml,1.5,17.95,1,17.95,4,Plastic,Red,Waterproof,0.5,Medium,HydraPak Stow Bottle 500ml backpacking wine flask
+189,Luxury,Playing Cards,Bicycle,Standard Deck,3.3,3.99,1,3.99,4,Paper,Multi,No,0,Medium,Bicycle Standard Deck backpacking playing cards
+190,Luxury,Journal,Moleskine,Pocket Journal,4,14.95,1,14.95,4,Paper,Black,No,0,Medium,Moleskine Pocket Journal backpacking journal
