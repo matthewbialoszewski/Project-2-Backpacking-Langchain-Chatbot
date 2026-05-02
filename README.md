@@ -122,7 +122,7 @@ source .venv/bin/activate
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Set your Gemini API key (free at https://aistudio.google.com)
+# 3. Set your Gemini API key in the .env file (free at https://aistudio.google.com)
 export GOOGLE_API_KEY=your-key-here
 
 # 4. Run
