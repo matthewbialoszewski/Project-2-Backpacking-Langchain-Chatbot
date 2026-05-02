@@ -2,7 +2,7 @@
 
 A LangChain + LangGraph chatbot that helps backpackers plan trips, choose gear within a budget, calculate pack weight, and learn backcountry skills — all in a single conversation. Powered by **Google Gemini**.
 
-**Live demo:** https://huggingface.co/spaces/MatthewBialoszewski/Backpacking_Bot
+**Live demo:** https://huggingface.co/spaces/MatthewBialoszewski/Backpacking_Bot 
 **Stack:** Python · LangChain · LangGraph · Google Gemini (2.5 Flash) · Gradio · FAISS
 
 ---
