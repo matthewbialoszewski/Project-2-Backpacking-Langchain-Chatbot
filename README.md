@@ -63,7 +63,7 @@ The other big lesson was about ecosystem instability: LangChain's API has been c
 
 ## Sample Conversations
 
-> The following are illustrative example exchanges showing each tool routing correctly. Replace these with verbatim entries from `logs/conversations.jsonl` after running your own sessions — they'll be more authentic.
+
 
 ### Conversation 1 — `gear_search` triggered
 
